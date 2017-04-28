@@ -1,4 +1,9 @@
 # Testing
+
+install phpUnit
+https://phpunit.de/getting-started.html
+
+
 ```bash
 $ wget https://phar.phpunit.de/phpunit.phar
 
